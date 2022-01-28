@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from Elicpse
+=======
+This is code by github
+>>>>>>> branch 'master' of https://github.com/pranjalikharat111/GithubDemo.git
